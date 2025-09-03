@@ -1,0 +1,11 @@
+# CODEOWNERS file
+# This tells GitHub who is responsible for which parts of the repo.
+
+# Default owner for everything
+*       @eomoran
+
+# Explicit ownership (can add more as collaborators join)
+# /src/qp_data/       @eomoran
+# /src/qp_model/      @eomoran
+# /src/qp_backtest/   @eomoran
+# /tests/             @eomoran
